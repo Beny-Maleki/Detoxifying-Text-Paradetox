@@ -1,5 +1,7 @@
 # Detoxifying-Text-Paradetox
 
+Using this project, you can generate alternatives which do not contain the hateful content of the input text!
+
 ### `text_detoxification.ipynb`
 This file consists of the code blocks that train a t5-small using instruction-finetuning for Hate Speech Modification. Instances of modification are taken from
 [ParaDetox dataset](https://github.com/s-nlp/paradetox).
